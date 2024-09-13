@@ -1,0 +1,13 @@
+body {
+    background-color: #151515 !important;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-blend-mode: luminosity !important;
+    padding: 0;
+    margin: 0;
+    font-family: Inter;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+}
